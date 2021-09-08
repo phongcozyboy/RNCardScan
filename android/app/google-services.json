@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "718701649797",
+    "project_id": "sieu-thi-da-chien-66c62",
+    "storage_bucket": "sieu-thi-da-chien-66c62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718701649797:android:c0a21befc0f75cf992aeec",
+        "android_client_info": {
+          "package_name": "com.sieuthidachien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718701649797-dshcfa7e9c70pjqfaqhuq5nvtemata7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sieuthidachien",
+            "certificate_hash": "7e11edfebf1f72d87a22c209b540147e8a104fdc"
+          }
+        },
+        {
+          "client_id": "718701649797-pftbeleodcd7aqaeoh61ch25fp68fimk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbs5WyULAcpNgaT71PHxkjBvdG_Bf-giY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718701649797-pftbeleodcd7aqaeoh61ch25fp68fimk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
